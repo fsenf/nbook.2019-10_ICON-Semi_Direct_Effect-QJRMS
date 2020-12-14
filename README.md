@@ -5,7 +5,7 @@ This is a collection of jupyter notebooks that have been used to prepare plots f
 
 Senf, Quaas and Tegen, **Absorbing aerosol decreases cloud cover in cloud-resolving simulations over Germany**, QJRMS, revision submitted in Dec. 2020.
 
-A pre-print version of the manuscript can be downloaded at ???
+A pre-print version of the manuscript can be downloaded at https://doi.org/10.1002/essoar.10505373.1
 
 
 ## Overview

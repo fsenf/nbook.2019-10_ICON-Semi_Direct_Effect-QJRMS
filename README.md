@@ -1,5 +1,8 @@
 # Jupyter Notebooks for Plotting Analysis of the "Semi-Direct Effect over Germany with ICON-LEM" study
 
+[![DOI](https://zenodo.org/badge/321327613.svg)](https://zenodo.org/badge/latestdoi/321327613)
+
+
 ## Paper
 This is a collection of jupyter notebooks that have been used to prepare plots for the paper project
 
